@@ -1,0 +1,1 @@
+<?= htmlspecialchars($shares) ?> share(s) of <?= htmlspecialchars($stock["name"]) ?> (<?= htmlspecialchars($stock ["symbol"]) ?>) stock were bought at $<?= htmlspecialchars($stock ["price"]) ?> per share.
